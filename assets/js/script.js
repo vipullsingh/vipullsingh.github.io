@@ -81,7 +81,7 @@ function showSkills(skills) {
         skillHTML += `
         <div class="bar">
               <div class="info skills-card">
-                <img class="skills-card-img" src="Assets/images/Skills/${skill.icon}" alt="skill" width="80"/>
+                <img class="skills-card-img" src="assets/images/Skills/${skill.icon}" alt="skill" width="80"/>
                 <span class="skills-card-name" >${skill.name}</span>
               </div>
             </div>`
@@ -96,7 +96,7 @@ function showTools(tools) {
         toolHTML += `
         <div class="bar">
               <div class="info skills-card">
-                <img class="skills-card-img" src="Assets/images/Skills/${tools.icon}" alt="skill" width="80"/>
+                <img class="skills-card-img" src="assets/images/Skills/${tools.icon}" alt="skill" width="80"/>
                 <span class="skills-card-name" >${tools.name}</span>
               </div>
             </div>`
@@ -111,7 +111,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectHTML += `
         <div class="box tilt project-card">
-      <img draggable="false" src="/Assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3 class="project-title">${project.name}</h3>
