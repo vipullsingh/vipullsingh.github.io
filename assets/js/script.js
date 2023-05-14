@@ -44,7 +44,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Divyansh Goel";
+            document.title = "Portfolio | Vipul Kumar";
             $("#favicon").attr("href", "");
         }
         else {
