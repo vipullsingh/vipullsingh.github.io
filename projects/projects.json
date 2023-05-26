@@ -14,7 +14,7 @@
     "name": "Brief.ly",
     "desc": "This portfolio showcases a web application project that offers link shortening, detailed analytics, and QR code generation. With the ability to transform long URLs into concise formats, track essential metrics, and convert links and UPI details into QR codes, this project provides users with efficient and insightful tools for link sharing and information sharing. The application's user-friendly interface and responsive design ensure a seamless experience across devices.",
     "image": "briefly",
-    "stacks":"html,css,js,bootstrap,nodejs,expressjs,redis",
+    "stacks":"html,css,js,bootstrap,tailwind,nodejs,expressjs,redis,netlify",
     "links": {
       "view": "https://lacking-berry-1088.netlify.app/",
       "code": "https://github.com/vipullsingh/briefly2.O"
