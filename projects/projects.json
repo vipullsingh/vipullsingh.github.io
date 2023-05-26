@@ -11,15 +11,15 @@
     "highlights" : ["Login Functionality With OTP","Used the JSON-Server to Fetch the data"]
   },
   {
-    "name": "QRify",
-    "desc": "The QR Code generator and management platform is a business and marketing tool that allows businesses to create custom QR codes for custom payments. It is an online platform that enables users to generate free custom QR codes quickly and easily.",
-    "image": "qrify",
-     "stacks":"html,css,js,bootstrap",
+    "name": "Brief.ly",
+    "desc": "This portfolio showcases a web application project that offers link shortening, detailed analytics, and QR code generation. With the ability to transform long URLs into concise formats, track essential metrics, and convert links and UPI details into QR codes, this project provides users with efficient and insightful tools for link sharing and information sharing. The application's user-friendly interface and responsive design ensure a seamless experience across devices.",
+    "image": "briefly",
+    "stacks":"html,css,js,bootstrap,nodejs,expressjs,redis",
     "links": {
-      "view": "https://vipullsingh.github.io/QRify/qrcode.html",
-      "code": "https://github.com/vipullsingh/QRify"
+      "view": "https://lacking-berry-1088.netlify.app/",
+      "code": "https://github.com/vipullsingh/briefly2.O"
     },
-        "highlights" : ["create custom QR codes for custom payments"]
+    "highlights" : ["Shorten URLs and convert link to QR and create custom QR codes for custom payments"]
   },
   {
     "name": "ShoeKeeper",
@@ -44,5 +44,3 @@
         "highlights" : ["On Landing page, product detail cards data Fetch through API.","Product Page with Filter by Product , Sort by Price"]
   }
 ]
-
-
