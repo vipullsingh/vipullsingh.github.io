@@ -11,6 +11,31 @@
     "highlights" : ["Login Functionality With OTP","Used the JSON-Server to Fetch the data"]
   },
   {
+    "name": "CodeVortex AI-Powered Interview Mock App",
+    "desc": "CodeVortex is an AI-powered interview application designed for conducting mock interviews. It offers functionalities such as asking questions to candidates, generating feedback based on their responses, and storing candidate progress and records. The application utilizes the OpenAI API for its AI capabilities.",
+    "image": "CodeVortex",
+    "stacks":"js,html,css,git,netlify,vscode,nodejs,expressjs,tailwind,",
+    "links": {
+      "view": "https://code-vertex.netlify.app/home",
+      "code": "https://github.com/vipullsingh/CodeVortex"
+    },
+    "highlights" : ["AI-powered mock interview application with question asking, feedback generation, and progress tracking.","Utilizes OpenAI API for AI capabilities"]
+  },
+  {
+    "name": "HealCare",
+    "desc": "HealCare is an appointment booking system website where patients can easily book appointments with doctors.",
+    "image": "HealCare",
+    "stacks": "HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, JSON Web Token (JWT), MongoDB, Sequelize, OAuth",
+    "links": {
+    "view": "https://exquisite-faloodeh-847e5b.netlify.app/",
+    "code": "https://github.com/vipullsingh/HealCare"
+    },
+    "highlights": [
+    "Allows patients to book appointments with doctors",
+    "Integrates OAuth for seamless user authentication"
+    ]
+    },
+  {
     "name": "Brief.ly",
     "desc": "This portfolio showcases a web application project that offers link shortening, detailed analytics, and QR code generation. With the ability to transform long URLs into concise formats, track essential metrics, and convert links and UPI details into QR codes, this project provides users with efficient and insightful tools for link sharing and information sharing. The application's user-friendly interface and responsive design ensure a seamless experience across devices.",
     "image": "briefly",
