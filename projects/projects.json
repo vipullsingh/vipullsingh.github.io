@@ -60,7 +60,7 @@
   {
     "name": "CosmetiCare",
     "desc": "CosmetiCare is an Indian online marketplace for beauty and wellness products. It offers a wide range of skincare, haircare, makeup, and personal care products from various brands.",
-    "image": "CosmetiCare",
+    "image": "cosmeticare",
      "stacks":"js,html,css,git,netlify,vscode",
     "links": {
       "view": "https://busy-channel-5933.netlify.app/",
