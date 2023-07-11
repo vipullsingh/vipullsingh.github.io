@@ -12,7 +12,7 @@
   },
   {
     "name": "CodeVortex AI-Powered Interview Mock App",
-    "desc": "CodeVortex is an AI-powered interview application designed for conducting mock interviews. It offers functionalities such as asking questions to candidates, generating feedback based on their responses, and storing candidate progress and records. The application utilizes the OpenAI API for its AI capabilities.",
+    "desc": "CodeVortex is an AI-powered interview application designed for conducting mock interviews. It offers functionalities such as asking questions to candidates, generating feedback based on their responses, and storing candidate progress and records. ",
     "image": "CodeVortex",
     "stacks":"js,html,css,git,netlify,vscode,nodejs,expressjs,tailwind,",
     "links": {
@@ -37,7 +37,7 @@
     },
   {
     "name": "Brief.ly",
-    "desc": "This portfolio showcases a web application project that offers link shortening, detailed analytics, and QR code generation. With the ability to transform long URLs into concise formats, track essential metrics, and convert links and UPI details into QR codes, this project provides users with efficient and insightful tools for link sharing and information sharing. The application's user-friendly interface and responsive design ensure a seamless experience across devices.",
+    "desc": "This portfolio showcases a web application project that offers link shortening, detailed analytics, and QR code generation. ",
     "image": "briefly",
     "stacks":"html,css,js,bootstrap,tailwind,nodejs,expressjs,redis,netlify",
     "links": {
