@@ -16,7 +16,7 @@
     "image": "CodeVortex",
     "stacks":"js,html,css,git,netlify,vscode,nodejs,expressjs,tailwind,",
     "links": {
-      "view": "https://code-vertex.netlify.app/home",
+      "view": "https://interview-stimulation-app.vercel.app/home",
       "code": "https://github.com/vipullsingh/CodeVortex"
     },
     "highlights" : ["AI-powered mock interview application with question asking, feedback generation, and progress tracking.","Utilizes OpenAI API for AI capabilities"]
